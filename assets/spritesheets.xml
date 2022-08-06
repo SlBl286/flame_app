@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<TextureAtlas imagePath="klondike-sprites.png">
+    <SubTexture name="Ay" x="335" y="164" width="120" height="129"/>
+    <SubTexture name="2y" x="20" y="19" width="83" height="125"/>
+    <SubTexture name="3y" x="122" y="19" width="80" height="127"/>
+    <SubTexture name="4y" x="213" y="12" width="93" height="132"/>
+    <SubTexture name="5y" x="314" y="21" width="85" height="125"/>
+    <SubTexture name="6y" x="419" y="17" width="84" height="129"/>
+    <SubTexture name="7y" x="509" y="21" width="92" height="128"/>
+    <SubTexture name="8y" x="612" y="19" width="78" height="127"/>
+    <SubTexture name="9y" x="709" y="19" width="84" height="130"/>
+    <SubTexture name="10y" x="810" y="20" width="137" height="127"/>
+    <SubTexture name="Jy" x="15" y="170" width="56" height="126"/>
+    <SubTexture name="Qy" x="92" y="168" width="132" height="128"/>
+    <SubTexture name="Ky" x="243" y="170" width="92" height="123"/>
+
+    <SubTexture name="Ab" x="789" y="161" width="120" height="129"/>
+    <SubTexture name="2b" x="15" y="322" width="83" height="125"/>
+    <SubTexture name="3b" x="117" y="322" width="80" height="127"/>
+    <SubTexture name="4b" x="208" y="315" width="93" height="132"/>
+    <SubTexture name="5b" x="309" y="324" width="85" height="125"/>
+    <SubTexture name="6b" x="414" y="320" width="84" height="129"/>
+    <SubTexture name="7b" x="509" y="21" width="92" height="128"/>
+    <SubTexture name="8b" x="505" y="324" width="78" height="127"/>
+    <SubTexture name="9b" x="704" y="322" width="84" height="130"/>
+    <SubTexture name="10b" x="805" y="322" width="137" height="127"/>
+    <SubTexture name="Jb" x="469" y="167" width="56" height="126"/>
+    <SubTexture name="Qb" x="547" y="156" width="132" height="128"/>
+    <SubTexture name="Kb" x="696" y="167" width="92" height="123"/>
+
+    <SubTexture name="Hearts" x="1176" y="17" width="172" height="183"/>
+    <SubTexture name="Diamonds" x="973" y="14" width="177" height="182"/>
+    <SubTexture name="Clubs" x="974" y="226" width="184" height="172"/>
+    <SubTexture name="Spades" x="1178" y="220" width="176" height="182"/>
+
+    <SubTexture name="CardBack" x="1367" y="6" width="357" height="501"/>
+
+    <SubTexture name="JHead" x="81" y="565" width="562" height="488"/>
+    <SubTexture name="QHead" x="717" y="541" width="486" height="515"/>
+    <SubTexture name="KHead" x="1305" y="532" width="407" height="549"/>
+</TextureAtlas>
